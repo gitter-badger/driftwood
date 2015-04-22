@@ -1,6 +1,10 @@
 `Full Documentation <http://driftwood.readthedocs.org/en/latest/>`_
 
 #########
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/HurricaneLabs/driftwood
+   :target: https://gitter.im/HurricaneLabs/driftwood?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 Driftwood
 #########
 **A collection of python logging extensions**
